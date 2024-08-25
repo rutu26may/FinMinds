@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "ASuqQN5Xsc/yRMPHRWg/4GSFO9CoK9PbALlOFBTnMlc=",
+  "Source": "finminds",
+  "BasePath": "_content/finminds",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "finminds\\wwwroot",
+      "Source": "finminds",
+      "ContentRoot": "D:\\hackthon\\EchoBot\\finminds\\wwwroot\\",
+      "BasePath": "_content/finminds",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\hackthon\\EchoBot\\finminds\\wwwroot\\default.htm",
+      "SourceId": "finminds",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\hackthon\\EchoBot\\finminds\\wwwroot\\",
+      "BasePath": "_content/finminds",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
